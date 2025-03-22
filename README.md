@@ -1,7 +1,7 @@
 ### Olá 👋
 
 ###### Sobre o Leonardo
-Estou em transição de carreira para a área de Análise de Dados, me ajudem avaliando meus projetos, estou aberto a novas ideias.
+Estou em transição de carreira para a área de Análise de Dados, me ajudem avaliando meus projetos, estou aberto a novas ideias ;D
 
 ### Detalhes
 
