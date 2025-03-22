@@ -9,7 +9,7 @@ Estou em transição de carreira para a área de Análise de Dados, me ajudem av
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonardo-felix-31&repo=Analise-Preditiva.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonardo-felix-31&repo=DashBoard.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Linguagens utilizadas
