@@ -7,13 +7,48 @@ Estou em transição de carreira para a área de Análise de Dados, me ajudem av
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo-felix-31&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonardo-felix-31/Analise-credito-SQL-AWS&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 Projetos de Análise, Ciência e Engenharia de Dados
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonardo-felix-31&repo=Analise-Preditiva&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### 🔍 [Análise de Crédito com SQL e AWS](https://github.com/leonardo-felix-31/Analise-credito-SQL-AWS)
+Análise de dados de crédito utilizando queries SQL em ambiente na nuvem com AWS.
+<br> ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=amazon-dynamodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonardo-felix-31&repo=DashBoard&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### 🧑‍💼 [Análise de RH com SQLite](https://github.com/leonardo-felix-31/Projeto-SQLite-RH)
+Projeto de análise de dados de recursos humanos com banco de dados relacional leve (SQLite).
+<br> ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+---
+
+### 💸 [Previsão de Concessão de Empréstimos](https://github.com/leonardo-felix-31/Analise-previsao-emprestimo)
+Análise exploratória e modelo preditivo para concessão de empréstimos.
+<br> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+---
+
+### 🚚 [Análise Logística - Caso Loggi](https://github.com/leonardo-felix-31/Analise-logistica-loggi)
+Estudo de caso de otimização logística baseado em dados da Loggi.
+<br> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-1D2951?style=flat&logo=plotly&logoColor=white)
+
+---
+
+### 🛒 [Dashboard de E-commerce](https://github.com/leonardo-felix-31/Dashboard_E-comerce)
+Criação de painel interativo para análise de desempenho de vendas em e-commerce.
+<br> ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+---
+
+### 📚 [Dashboard de Livraria](https://github.com/leonardo-felix-31/Dashboard-Livraria)
+Dashboard para insights sobre vendas e desempenho de produtos em livraria.
+<br> ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+---
+
+### 📡 [Pipeline de Dados com Telegram](https://github.com/leonardo-felix-31/pipeline-dados-telegram)
+Criação de pipeline de dados com envio de mensagens automatizadas via Telegram.
+<br> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-FFA500?style=flat&logo=airflow&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
 
 
 ### Linguagens utilizadas
