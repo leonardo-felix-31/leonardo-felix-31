@@ -1,24 +1,7 @@
 ### Olá 👋
 
 ###### Sobre o Leonardo
-Profissional com experiência no desenvolvimento de soluções orientadas a dados, unindo forte base técnica a uma visão estratégica de negócios. Atualmente atuo como Sales Ops, onde:
-
-Desenvolvi e gerenciei um pipeline de dados completo em Python (ELT, análises e KPIs), integrando informações de Vendas e Marketing.
-
-Criei dashboards de performance comercial (Power BI, Plotly/Dash) com dados em tempo real via webhooks.
-
-Implementei automações em Python que eliminaram tarefas manuais, aumentando a eficiência operacional.
-
-Apliquei modelos de Machine Learning (Scikit-learn) e técnicas estatísticas para gerar insights estratégicos e prever resultados.
-
-Utilizei PostgreSQL para armazenamento estruturado e consultas SQL otimizadas.
-
-Além da experiência prática, desenvolvi projetos pessoais de Deep Learning, fortalecendo meu domínio em Python, SQL, Power BI, AWS Services e análise avançada de dados. Tenho como pontos fortes a comunicação clara, raciocínio lógico e pensamento analítico, o que me permite interpretar dados com precisão e apresentar soluções eficazes para diferentes públicos.
-
-Meu objetivo é atuar como Cientista de Dados, utilizando meu conhecimento para resolver problemas complexos, otimizar processos e apoiar decisões baseadas em dados.
-
-Aberto a oportunidades e networking na área!
-E-mail: leonardofx2003@gmail.com
+Profissional de Sales Ops com experiência em análise de dados e ciência de dados. Desenvolvi pipelines de dados em Python, dashboards interativos (Power BI, Plotly/Dash) e automações que aumentaram a eficiência operacional. Apliquei Machine Learning (Scikit-learn) e estatística para gerar insights e previsões, integrando dados de Vendas e Marketing via SQL e PostgreSQL.
 
 ### Detalhes
 
