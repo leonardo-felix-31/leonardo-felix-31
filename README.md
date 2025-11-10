@@ -1,7 +1,7 @@
 ### Olá 👋
 
 ###### Sobre o Leonardo
-Sales Ops com forte experiência em análise de dados e ciência de dados. Desenvolvi pipelines de dados em Python, dashboards interativos (Power BI, Plotly/Dash) e automações que aumentaram a eficiência operacional. Apliquei Machine Learning e estatística para gerar insights estratégicos e previsões, integrando dados via SQL/PostgreSQL.
+Sales Ops com forte experiência em análise de dados e ciência de dados. Desenvolvi pipelines de dados em Python, dashboards interativos (Power BI, Plotly/Dash) e automações que aumentaram a eficiência operacional. 
 
 Meus projetos de Deep Learning e análise de dados demonstram habilidades práticas em transformar dados em decisões impactantes. Foco em soluções reais, escaláveis e orientadas a resultados.
 
