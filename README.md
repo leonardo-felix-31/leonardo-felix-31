@@ -10,7 +10,7 @@ Meus projetos de Deep Learning e análise de dados demonstram habilidades práti
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo-felix-31&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 🚀 Projetos de Análise, Ciência e Engenharia de Dados
+## 🚀 Projetos de Análise/Ciência de Dados
 
 ### 🔍 [Análise de Crédito com SQL e AWS](https://github.com/leonardo-felix-31/Analise-credito-SQL-AWS)
 Análise de dados de crédito utilizando queries SQL em ambiente na nuvem com AWS.
