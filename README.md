@@ -53,10 +53,6 @@ Criação de pipeline de dados com envio de mensagens automatizadas via Telegram
 <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-FFA500?style=flat&logo=airflow&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
 
 
-### Linguagens utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-felix-31&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🛠 Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
